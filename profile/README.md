@@ -1,7 +1,8 @@
-# Datacom Group
-Welcome to Datacom Group GitHub 
+![Datacom](https://datacom.com/content/dam/images---social-media-pull-throughs/careersocial.jpg)
+# Datacom 
+Welcome to Datacom GitHub 
 ## Contact
 For any and all querys please contact datacomgroup-github@datacom.co.nz
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome.
